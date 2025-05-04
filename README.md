@@ -11,7 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=liszt831020&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=liszt831020&theme=one_dark_pro&hide_border=false)<br/>
 
-<p><a target="_blank" href="https://twitter.com/LisztOYtw" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=liszt831020&icon=0&color=0)](https://visitcount.itsvg.in)
